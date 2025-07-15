@@ -1,3 +1,5 @@
+Brief Introduction About Myself
+
 I'm Dagmawi Tewodros, an aspiring tech entrepreneur driven by a vision to revolutionize Ethiopia's local systems through digital transformation. While I'm now based in Addis Ababa, my journey began in Gondar. My childhood was defined by a passion for creating software systems for businesses, schools, and even my own family. Notable projects include Learniverse, a digital learning system; Gymnify, a gym management system; and Payease, a labor management system I developed for my uncle to streamline his labor records.
 
 My interests extend to typing, coding, and hooping, and I also value time with my sisters. With a typing speed exceeding 120 words per minute, I can articulate ideas significantly faster than most, which has amplified my interest and confidence in coding. I've always been keen on identifying problems in my environment and brainstorming technological solutions, and I'm committed to realizing these innovations.
